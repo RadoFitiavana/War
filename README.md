@@ -1,3 +1,6 @@
+# requirements
+processing >= 3.0
+
 # snipsets
 Use<br>
 - <strong>z</strong> key to moov up<br>
